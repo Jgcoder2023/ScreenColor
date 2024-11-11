@@ -30,8 +30,8 @@
 
       <!--    开源图标-->
       <div class="git">
-        <img @click="open_url('www.baidu.com')" src="@/assets/img/gitee.png" />
-        <img  @click="open_url('www.daodaoyouli.com')" src="@/assets/img/github.png" />
+        <img @click="open_url('https://gitee.com/gongji/ScreenColor')" src="@/assets/img/gitee.png" />
+        <img  @click="open_url('https://github.com/Jgcoder2023/ScreenColor')" src="@/assets/img/github.png" />
       </div>
     </div>
   </main>

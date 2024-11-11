@@ -1,3 +1,4 @@
-build/bin
+build/bin/windows
 node_modules
 frontend/dist
+.idea
